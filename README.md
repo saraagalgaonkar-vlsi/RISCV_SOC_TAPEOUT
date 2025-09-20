@@ -15,7 +15,7 @@ This repository is for the RISC-V SoC Tapeout Program, a comprehensive 20-week p
 
 | Task | Description | Status |
 |------|-------------|---------|
-| [**Task 0**](Week0/Screenshots/README.md) | 🛠️ Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
+| [**Task 0**](https://github.com/saraagalgaonkar-vlsi/RISCV_SOC_TAPEOUT/blob/main/WEEK0/Screenshots/README.md) | 🛠️ Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
 
 
 
